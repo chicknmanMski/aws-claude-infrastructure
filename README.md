@@ -92,3 +92,5 @@ Sub-agents access the S3 bucket to retrieve and process files as part of their w
 ## Notes
 
 This repository documents infrastructure architecture and security posture only. No credentials, API keys, environment variables, or proprietary logic are included. All sensitive configuration is managed through AWS IAM roles and environment-level secrets.
+
+Diagram reference: ![Image](https://github.com/user-attachments/assets/49103a42-ed2e-4117-8010-14c8ff00bfb9)
